@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>RSS Title</title>
+<description>Trying to create a workable RSS feed</description>
+<link>https://github.com/jediller/AudioClips/blob/main/LordsPrayer.mp3</link>
+<copyright>rights reserved</copyright>
+<lastBuildDate>Sat, 03 Jul 2021 15:48:00 +0000</lastBuildDate>
+<pubDate>Sat, 03 Jul 2021 15:48:00 +0000</pubDate>
+<ttl>1800</ttl>
+<item>
+<title>Example entry</title>
+<description>This is some description.</description>
+<link>https://github.com/jediller/AudioClips/blob/main/LordsPrayer.mp3</link>
+<guid isPermaLink="false">76TBLTBP-F101CATB-070320211548-EST</guid>
+<pubDate>Sat, 03 Jul 2021 15:48:00 +0000</pubDate>
+</item>
+</channel>
+</rss>
